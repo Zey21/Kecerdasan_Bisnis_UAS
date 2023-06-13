@@ -1,7 +1,3 @@
-#Install Modul
-pip install scikit-learn
-pip install matplotlib
-
 #Import Modul
 import streamlit as st
 import pandas as pd
